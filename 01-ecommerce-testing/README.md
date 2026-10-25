@@ -75,3 +75,10 @@ Each reported defect includes a description, preconditions where applicable, ste
 
 ## Disclaimer
 This project was created for educational and portfolio purposes. Testing was performed independently on a publicly available demo application. No production systems or real customer data were involved.
+
+## Project structure
+
+1. `test-plans/`
+2. `test-cases/`
+3. `bug-reports/`
+4. `screenshots/`
