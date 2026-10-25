@@ -21,3 +21,4 @@ All product names should be displayed correctly.
 ## Priority: 
 Medium
 ## Attachments:
+![BUG-01](../screenshots/BUG-01.png)
