@@ -106,6 +106,7 @@ Test cases will be executed in the following order:
 -	**Microsoft Excel** – test case documentation and recording of results.
 -	**Google Chrome** – test execution.
 - **PicPick** – screenshot capture and image annotation.
+- **Jira** – defect tracking and bug reporting
 
 ## 15. Incident management
 A test case with the result Failed indicates a defect. The tester describes the defect (the current result compared with the expected result, the test user and the steps to reproduce) and reports it to the development team. After the defect is fixed, the test case is executed again to confirm the fix.
