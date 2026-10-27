@@ -82,10 +82,10 @@ junior-qa-portfolio/
 │   ├── README.md
 │   └── test-cases-and-execution.xlsx
 └── 03-api-testing/
-│   ├── bug-reports/
-│   ├── screenshots/
-│   ├── README.md
-│   └── test-cases-and-execution.xlsx
+    ├── bug-reports/
+    ├── screenshots/
+    ├── README.md
+    └── test-cases-and-execution.xlsx
 ```
 
 ## Contact
