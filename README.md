@@ -68,7 +68,7 @@ The project uses a shared demo environment where test data may change or be rese
 ## Repository Structure
 
 ```text
-junior-qa-portfolio/
+Manual-QA-Portfolio/
 ├── README.md
 ├── 01-ecommerce-testing/
 │   ├── bug-reports/
@@ -89,5 +89,4 @@ junior-qa-portfolio/
 ```
 
 ## Contact
-
 - **Email:** adrian.64@wp.pl
