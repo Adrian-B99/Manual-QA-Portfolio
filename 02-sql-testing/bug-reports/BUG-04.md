@@ -18,7 +18,7 @@ SELECT * FROM `payments` WHERE payment_date IS NULL;
 ## Actual Result:
 The payment date for one of the payments is empty.
 ## Expected Result:
-All payments should have correct dates.
+No records should be returned. Any returned record indicates a payment with a missing payment date.
 ## Priority: 
 Medium
 ## Attachments:
