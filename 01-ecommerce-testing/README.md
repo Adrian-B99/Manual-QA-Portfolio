@@ -58,7 +58,6 @@ Each reported defect includes a description, preconditions where applicable, ste
 ## Project Structure
 ```text
 01-ecommerce-testing/
-├── Jira/
 ├── bug-reports/
 ├── screenshots/
 ├── README.md
