@@ -8,7 +8,7 @@ XAMPP v3.3.0 + 10.4.32-MariaDB + phpMyAdmin
 ## Preconditions:
 Database qa_sql_portfolio exists and test data is loaded.
 ## SQL:
-SELECT product_id, product_name, stock FROM `products` WHERE stock <0;
+SELECT product_id, product_name, stock FROM `products` WHERE stock <=0;
 ## Steps to Reproduce:
 1. Open phpMyAdmin
 2. Select "products" database
