@@ -1,6 +1,7 @@
 # Test Cases
 
-## Arkusz1
+Long descriptions and steps may require horizontal scrolling.
+
 | ID | ENVIRONMENT | TITLE | DESCRIPTION | PRECONDITIONS | TEST DATA | PRIORITY | TEST STEPS | CURRENT RESULTS | EXPECTED RESULTS | TEST RESULT |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | TC-01 | Win 10 Pro 19045.6466 + Postman 12.33.1 + QA – Restful Booker Demo API | Generate a token using valid data | Generate token with correct username and password. | API is accessible. | Username: admin Password: password123 | High | 1. Open postman<br>2. Send POST / https://restful-booker.herokuapp.com/auth with correct username and password<br>3. Verify the response status code and body | The token was created successfully, and the response status code is 200. | The token should be created successfully, and the response status code should be 200. | Passed |
