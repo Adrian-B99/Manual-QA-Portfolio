@@ -1,6 +1,6 @@
 # Test Cases
 
-Tabela przypadków testowych wygenerowana z pliku Excel. Długie opisy i kroki mogą wymagać przewijania poziomego.
+Test case table generated from an Excel file. Long descriptions and steps may require horizontal scrolling.
 
 | ID | ENVIRONMENT | TITLE | DESCRIPTION | PRECONDITIONS | SQL | PRIORITY | TEST STEPS | CURRENT RESULTS | EXPECTED RESULTS | TEST RESULT |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
